@@ -1,0 +1,2 @@
+Acesta este un fisier de test pentru proiectul sd-storage (Sisteme Distribuite).
+Verifica replicarea in 2 copii, checksum-ul SHA-256 si toleranta la defectari.
